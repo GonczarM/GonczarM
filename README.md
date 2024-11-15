@@ -13,7 +13,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m currently working as: Instructor for General Assembly's Software Engineering Immersive
+- 🔭 I’m currently working as: Cloud Architect for SAIC
 - 🌱 I’m currently learning: Mobile Development with React Native and Expo
 - 💬 Ask me about Javascript, React, Express, Mongoose, MongoDB
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Matthew%20Gonczar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-gonczar)
